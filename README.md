@@ -54,4 +54,4 @@ npm start
 
 ```bash
 ./start-client.sh
-``1
+```
